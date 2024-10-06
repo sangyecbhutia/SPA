@@ -1,0 +1,6 @@
+yfinance
+pandas
+matplotlib
+prophet
+statsmodels
+openpyxl
